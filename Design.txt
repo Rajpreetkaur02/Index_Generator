@@ -1,0 +1,24 @@
+Class:
+
++-------------------------------------------+
+|               IndexGenerator              |
++-------------------------------------------+
+| - file : private                          |
++-------------------------------------------+
+| + IndexGenerator()                        |
+| + readexc(Set...) : void                  |
+| + read(filenum, Map, Set) : void          |
+| + write(Map) : void                       |
++-------------------------------------------+
+
+Objects:
+
++-------------------------------------------+
+|      Instances of IndexGenerator class    |
++-------------------------------------------+
+| + excobj : "exclude-words.text"           |
+| + pageobj1: "Page1.txt"                   |
+| + pageobj1: "Page1.txt"                   |
+| + pageobj1: "Page1.txt"                   |
+| + writeobj: "index.txt"                   |
++-------------------------------------------+
